@@ -13,11 +13,19 @@ The work required on free and open-source software and packages for geospatial p
 
 ## Usage
 1. Extraction of streetblock
-2. ML Poverty mapping 
+2. ML Poverty mapping
+3. Change detection at streetblock level  
 
 ## Reference
 Owusu, M., Kuffer, M., Belgiu, M., Grippa, T., Lennert, M., Georganos, S., & Vanhuysse, S. (2021). Towards user-driven earth observation-based slum mapping. Computers, Environment and Urban Systems, 89(June), 101681. https://doi.org/10.1016/j.compenvurbsys.2021.101681
 
-## Acknowledgement 
+## Acknowledgement
+We would like to thank all the participating institutions for their contribution to fieldwork, providing data and expert knowledge to support the research. We acknowledge the support of the European Space Agency (ESA) for providing the SPOT 6 image for the research.
+
+## Funding
+The research pertaining to these results received financial aid from
+the Belgian Federal Science Policy (BELSPO) according to the agreement of subsidy no. (SR/11/380) (SLUMAP: http://slumap.ulb.be/) and from NWO grant number VI.Veni.194.025.
+
+
 
 
