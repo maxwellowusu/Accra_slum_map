@@ -8,7 +8,7 @@ Remote sensing capabilities to produced up-to-date spatial information on slums 
 ## Getting started 
 These instructions will help to replicate the processing chain
 
-## Required softwares and packages 
+## Required software and packages 
 The work required on free and open-source software and packages for geospatial proessig and analysis. **GRASS GIS** was integrated and implemented in jupyter notebook. It use mainly used for raster processing. **PostgreSQl with PostGIs** extension was used for storing managing and processing laege vector datasets. Additionally, **Python and R** were used for machine learning. Packages include ..
 
 
